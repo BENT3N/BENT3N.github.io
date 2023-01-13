@@ -7,3 +7,5 @@ Di ko abot standards niya :(
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | ------ | ------ | ------- | --------- | -------- | ------ | -------- |
 | Training | Playing Online games | Watching Anime | Going out with my friends | Playing Football | Playing online games | Training
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1XqIWr_WqM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
