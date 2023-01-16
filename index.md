@@ -1,4 +1,4 @@
-### Lionel Messi
+## Lionel Messi
 
 <img src="https://user-images.githubusercontent.com/122423840/212575859-3841e9cf-6769-4ef7-a85e-684f98fe5f07.png" width="1000" height="">
 
@@ -7,7 +7,11 @@ Born and raised in central Argentina, Messi relocated to Spain at the age of 13 
 An Argentine international, Messi holds the national record for appearances and is also the country's all-time leading goalscorer. At youth level, he won the 2005 FIFA World Youth Championship, finishing the tournament with both the Golden Ball and Golden Shoe, and an Olympic gold medal at the 2008 Summer Olympics. His style of play as a diminutive, left-footed dribbler drew comparisons with his compatriot Diego Maradona, who described Messi as his successor. After his senior debut in August 2005, Messi became the youngest Argentine to play and score in a FIFA World Cup in 2006, and reached the final of the 2007 Copa América, where he was named young player of the tournament. As the squad's captain from August 2011, he led Argentina to three consecutive finals: the 2014 FIFA World Cup, for which he won the Golden Ball, and the 2015 and 2016 Copa América, winning the Golden Ball in the 2015 edition. After announcing his international retirement in 2016, he reversed his decision and led his country to qualification for the 2018 FIFA World Cup, a third-place finish at the 2019 Copa América, and victory in the 2021 Copa América, while winning the Golden Ball and Golden Boot for the latter. This achievement would see him receive a record seventh Ballon d'Or in 2021. In 2022, he captained his country to win the 2022 FIFA World Cup, for which he won the Golden Ball for a record second time, and broke the record for most appearances in World Cup tournaments with 26 matches played.
 Messi has endorsed sportswear company Adidas since 2006. According to France Football, he was the world's highest-paid footballer for five years out of six between 2009 and 2014, and was ranked the world's highest-paid athlete by Forbes in 2019 and 2022. Messi was among Time's 100 most influential people in the world in 2011 and 2012. In February 2020, he was awarded the Laureus World Sportsman of the Year, thus becoming the first footballer and the first team sport athlete to win the award. Later that year, Messi became the second footballer and second team-sport athlete to surpass $1 billion in career earnings.*
 
-
+# *Championships that Messi have won*
+	
+  | UEFA Champions League | FIFA CLUB World Cups | UEFA Super Cups | Spanish La Liga | Spanish Super Cups | Spanish Cups |
+  | --------------------- | -------------------- | --------------- | --------------- | ------------------ | ------------ |
+  | 4 | 3 | 3 | 10 | 8 | 7 |
 
 
 
